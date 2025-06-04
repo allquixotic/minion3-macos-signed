@@ -1,0 +1,12 @@
+.env
+.env.keys
+.DS_Store
+__MACOSX
+*.app/
+*.zip
+*.dmg
+jdk11.0.27-aarch64/
+jdk11.0.27-amd64/
+lib/
+*.jar
+*.entitlements
